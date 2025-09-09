@@ -1,0 +1,3 @@
+Socket Programming: Stream driver GPS updates to a dispatcher and push rider status updates in near real time over TCP sockets. 
+RPC: Implement ride request/assignment workflow (register driver, request ride, assign driver) via RPC as if invoking local procedures. 
+RMI: Provide a Java‑based fare calculation and trip status service where remote objects expose methods invoked by clients across JVMs.
